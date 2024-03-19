@@ -1,4 +1,4 @@
-### Hi there 👋
+### WELCOME!! I'M DongMinDMK. Nice to meet you! 👋
 
 <!--
 **DongMinDMK/DongMinDMK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
