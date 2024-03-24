@@ -1,6 +1,6 @@
 <div align=center>
   
-### WELCOME!! I'M DongMinDMK. Nice to meet you! 👋
+### 👋 WELCOME!! I'M DongMinDMK. Nice to meet you!
 
 </div>
 
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
 </div>
 
-<div align=center><h1> DEVELOP TOOLS</h1></div>
+<div align=center><h1>📝 DEVELOP TOOLS</h1></div>
 
 <div align = center>
 
