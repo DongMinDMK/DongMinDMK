@@ -1,6 +1,6 @@
 <div align=center>
   
-### 👋 WELCOME!! I'M DongMinDMK. Nice to meet you!
+### 👋 WELCOME!! I'M DongMinDMK. Nice to meet you! 👋
 
 </div>
 
