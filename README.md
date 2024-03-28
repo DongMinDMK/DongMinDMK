@@ -38,13 +38,21 @@ Here are some ideas to get you started:
   
 </div>
 
-<div align=center><h1>📝 DEVELOP TOOLS 📝</h1></div>
+<div align=center><h1>💻 DEVELOP TOOLS 💻</h1></div>
 
 <div align = center>
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white) 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
+
+</div>
+
+<div align=center><h1>📝 WEB SERVER 📝</h1></div>
+
+<div align = center>
+
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=white)
 
 </div>
 
