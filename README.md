@@ -57,14 +57,5 @@ Here are some ideas to get you started:
 
 </div>
 
-<div align=center><h1>📝 WEB SERVER 📝</h1></div>
-
-<div align = center>
-
-![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-F8DC75.svg?&style=for-the-badge&logo=Apache%20Tomcat&logoColor=black)
-
-</div>
-
-
 
 
