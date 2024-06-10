@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   
 </div>
 
-<div align=center><h1>💻 DEVELOP TOOLS 💻</h1></div>
+<div align=center><h1>✍ DEVELOP TOOLS ✍</h1></div>
 
 <div align=center><h3>FRONT-END</h3></div>
 
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<div align=center><h1>✍ GITHUB/DATABASE ✍</h1></div>
+<div align=center><h1>💻 GITHUB/DATABASE 💻</h1></div>
 
 <div align=center>
 
