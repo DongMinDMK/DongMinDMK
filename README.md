@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   
 </div>
 
-<div align=center><h1>📓 DEVELOP TOOLS 📓</h1></div>
+<div align=center><h1>📚 DEVELOP TOOLS 📚</h1></div>
 
 <div align=center><h3>FRONT-END</h3></div>
 
@@ -72,14 +72,14 @@ Here are some ideas to get you started:
 
 </div>
 
-<div align=center><h1>📚 GITHUB/DATABASE 📚</h1></div>
+<div align=center><h1>📓 GITHUB/DATABASE 📓</h1></div>
 
 <div align=center>
 
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"> 
 
-<div align=center><h1>💻 REFERENCE STUDY LINK 💻</h1></div>
+<div align=center><h1>✍ REFERENCE STUDY LINK ✍</h1></div>
 
 [DongMinDMK's Cafe](https://cafe.naver.com/dmk0908)
   
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-<div align=center><h1> ✍ WEB SERVER ✍</h1></div>
+<div align=center><h1>💻 WEB SERVER 💻</h1></div>
 
 <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=white">  
 
