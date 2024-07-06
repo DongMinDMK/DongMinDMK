@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<div align=center><h1>📚 GITHUB/DATABASE 📚</h1></div>
+<div align=center><h1>💻 GITHUB/DATABASE 💻</h1></div>
 
 <div align=center>
 
@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-<div align=center><h1>💻 WEB SERVER 💻</h1></div>
+<div align=center><h1>📚 WEB SERVER 📚</h1></div>
 
 <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=Apache%20Tomcat&logoColor=white">  
 
