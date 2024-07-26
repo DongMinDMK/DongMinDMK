@@ -93,5 +93,14 @@ Here are some ideas to get you started:
 
 </div>
 
+<div align=center><h1>💻 COOKIES/SESSION SECURITY 💻</h1></div>
+
+<div align=center>
+
+<img src="https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=spring%20security&logoColor=white">
+
+</div>
+
+
 
 
