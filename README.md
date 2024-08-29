@@ -1,6 +1,6 @@
  <div align=center>
   
-### 👋 !!~ WELCOME ~!! THIS IS MY PROFILE!! I'M DongMinDMK. Nice to meet you see again!  👋
+### 👋 WELCOME ~!! THIS IS MY PROFILE!! I'M DongMinDMK. Nice to meet you see again!  👋
 
 </div>
 
