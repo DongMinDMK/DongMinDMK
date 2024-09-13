@@ -1,4 +1,4 @@
- <div align=center>
+<div align=center>
   
 ### 👋 WELCOME I'M DongMinDMK Github's Repo. Good to see you and glad to see you again. Nice to meet you!  👋
 
@@ -97,6 +97,13 @@ Here are some ideas to get you started:
 <div align=center>
 
 <img src="https://img.shields.io/badge/spring%20security-6DB33F?style=for-the-badge&logo=spring%20security&logoColor=white">
+
+</div>
+
+
+<div align=center>
+  
+### 👋 Thank you! often rejoin DongMinDMK Git's !  👋
 
 </div>
 
