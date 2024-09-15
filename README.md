@@ -1,6 +1,6 @@
 <div align=center>
   
-### 👋 WELCOME I'M DongMinDMK Github's Repo. Good to see you and glad to see you again. Nice to meet you!  👋
+### 👋 WELCOME I'M DongMinDMK. Good to see you and glad to see you again. Nice to meet you!  👋
 
 </div>
 
