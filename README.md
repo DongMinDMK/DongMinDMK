@@ -103,7 +103,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-### 👋 Thank you! often rejoin DongMinDMK Git's !  👋
+### 👋 Thank you! rejoin DongMinDMK Github's !  👋
 
 </div>
 
