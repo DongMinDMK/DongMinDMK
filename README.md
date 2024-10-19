@@ -92,7 +92,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<div align=center><h1>💻 COOKIES/SESSION SECURITY 💻</h1></div>
+<div align=center><h1>💻 SECURITY 💻</h1></div>
 
 <div align=center>
 
