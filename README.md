@@ -1,6 +1,6 @@
 <div align=center>
   
-### 👋  Hi, glad to see you!! Nice to meet you!  👋
+### 👋  Hello, glad to see you!! Nice to meet you!  👋
 
 </div>
 
