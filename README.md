@@ -1,6 +1,6 @@
 <div align=center>
   
-### 👋  Hello, Nice to meet you! This DongMinDMK Repository's!! Join! 👋
+### 👋  Hello, Nice to meet you! This DongMinDMK Repository's!! Join! my Repo's!! 👋
 
 </div>
 
