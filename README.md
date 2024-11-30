@@ -1,6 +1,6 @@
 <div align=center>
   
-### 👋  Hello Visitors~!! Nice to meet you! Join my Repo's!! 👋
+### 👋  Hello Visitors~!! Nice to meet you! 👋
 
 </div>
 
