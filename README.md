@@ -1,6 +1,6 @@
 <div align=center>
   
-### 👋  Hello Visitors~!! This is DongMinDMK Repo's. Nice to meet you! 👋
+### 👋  Hello Visitors~!! It's DongMinDMK Repo's. Nice to meet you! 👋
 
 </div>
 
