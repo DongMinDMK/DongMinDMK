@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 </div>
 
-<div align=center><h1>💻 SOCIAL LOGIN 💻</h1></div>
+<div align=center><h1>✔ SOCIAL LOGIN ✔</h1></div>
 
 <div align=center>
 
