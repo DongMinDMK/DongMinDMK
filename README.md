@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 
 <div align=center><h1>📓 DEVELOP TOOLS 📓</h1></div>
 
-<div align=center><h3>FRONT</h3></div>
+<div align=center><h3> FRONT </h3></div>
 
 <div align=center>
 
