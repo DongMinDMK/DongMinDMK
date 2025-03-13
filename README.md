@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-### ✌ Let me introduce developing my tools, stacks(front-end/back-end) ✌ ###
+### ✌ Let me introduce developing tools, stacks(front-end/back-end) ✌ ###
   
 </div>
 
