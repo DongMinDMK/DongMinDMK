@@ -18,17 +18,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center>
-
-![DongMinDMK's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongMinDMK&show_icons=true&theme=radical)
-
-</div>
 
 
 <div align=center>
 
 ### ✌ Let me introduce my developing tools/stacks(front-end/back-end). ✌ ###
   
+</div>
+
+<div align=center>
+
+![DongMinDMK's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongMinDMK&show_icons=true&theme=radical)
+
 </div>
 
 
