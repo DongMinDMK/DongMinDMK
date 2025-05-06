@@ -112,7 +112,7 @@ Here are some ideas to get you started:
 
 <div align=center>
   
-### 👋 rejoin my Github's!!  👋
+### 👋 rejoin my Github's!! The END!! 👋
 
 </div>
 
