@@ -19,6 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align=center>
+
+![DongMinDMK's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongMinDMK&show_icons=true&theme=radical)
+
+</div>
+
 
 <div align=center>
 
@@ -26,11 +32,6 @@ Here are some ideas to get you started:
   
 </div>
 
-<div align=center>
-
-![DongMinDMK's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongMinDMK&show_icons=true&theme=radical)
-
-</div>
 
 
 <div align=center><h1>📝 SKILL STACKS 📝</h1></div>
