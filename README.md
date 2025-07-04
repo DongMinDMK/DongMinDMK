@@ -21,15 +21,14 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-![DongMinDMK's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongMinDMK&show_icons=true&theme=radical)
-
+### ✌ Let me introduce my developing's tools/stacks(front/back). ✌ ###
+  
 </div>
-
 
 <div align=center>
 
-### ✌ Let me introduce my developing's tools/stacks(front/back). ✌ ###
-  
+![DongMinDMK's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongMinDMK&show_icons=true&theme=radical)
+
 </div>
 
 <div align=center><h1>📓 DEVELOPING TOOLS 📓</h1></div>
