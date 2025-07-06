@@ -95,18 +95,18 @@ Here are some ideas to get you started:
 
 </div>
 
+<div align=center><h1>✍ REFERENCE STUDY MY CAFE LINK ✍</h1></div>
+
+[DongMinDMK's Cafe](https://cafe.naver.com/dmk0908)
+  
+</div>
+
 <div align=center><h1>✔ SOCIAL LOGIN ✔</h1></div>
 
 <div align=center>
 
 <img src="https://img.shields.io/badge/kakao-FFCD00?style=for-the-badge&logo=kakao&logoColor=white"> <img src="https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white">
 
-</div>
-
-<div align=center><h1>✍ REFERENCE STUDY MY CAFE LINK ✍</h1></div>
-
-[DongMinDMK's Cafe](https://cafe.naver.com/dmk0908)
-  
 </div>
 
 
