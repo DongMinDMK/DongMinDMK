@@ -73,7 +73,7 @@ Here are some ideas to get you started:
   
 </div>
 
-<div align=center><h1>💻 DB/GITHUB/GIT 💻</h1></div>
+<div align=center><h1>💻 DB/GIT/GITHUB 💻</h1></div>
 
 <div align=center>
 
