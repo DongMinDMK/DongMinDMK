@@ -25,12 +25,6 @@ Here are some ideas to get you started:
   
 </div>
 
-<div align=center>
-
-![DongMinDMK's GitHub stats](https://github-readme-stats.vercel.app/api?username=DongMinDMK&show_icons=true&theme=radical)
-
-</div>
-
 <div align=center><h1>📓 DEVELOPING TOOLS 📓</h1></div>
 
 <div align=center><h3> FRONT </h3></div>
